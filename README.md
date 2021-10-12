@@ -1,1 +1,1 @@
-# structured_programming_project
+# Structured Programming Project
